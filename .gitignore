@@ -1,0 +1,10 @@
+venv_desenvolvimento/
+.venv/
+
+__pycache__/
+*.pyc
+
+.env
+.vscode/
+
+*.log
